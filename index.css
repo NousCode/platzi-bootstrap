@@ -56,6 +56,10 @@ main .carousel-inner img {
     border-color: var(--bs-btn-hover-border-color);
 }
 
+.card {
+    height: 100%;
+}
+
 #footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
