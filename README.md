@@ -6,7 +6,7 @@ The main purpose of this app is to practice make web pages with Bootstrap framew
 
 ![paltziconf](https://res.cloudinary.com/drsp7xijk/image/upload/v1660750663/platziHawaii_lornfu.png)
 
-## Config. Environtment 
+## Config. Environment 
 You dont much that yoru favorite code editor, if you would like to change something of the page, and open the file `index.html` to see that changes.
 
 ## Built with 
