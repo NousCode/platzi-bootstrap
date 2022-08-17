@@ -25,3 +25,4 @@ Enjoy practice on your way with this spectacular website.
 ## Deploy
 It uses the GitHub pages feature to  to visualize a Demo of the app. You can see it in the next link:
 [Platzi Conf Hawaii](https://nouscode.github.io/platzi-bootstrap/)
+![web](./platzicongf.gif)
